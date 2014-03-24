@@ -1,11 +1,10 @@
 # CampusAdventure
 
-Im Rahmen der Veranstaltung "Softwaretechnik" im vierten Semester an der HSRM habe ich zusammen mit Kommilitonen dieses Point-and-Click Adventure entwickelt.
-Vor der eigentlichen Entwicklung wurde eine Anforderungsspezifikation und ein Designdokument erstellt, anhand derer schliesslich die Anwendung entwickelt wurde.
+Im 4. Semester wurde einem Team von 4 Personen, die Aufgabe gestellt ein Point-and-Click Adventure zu entwickeln.
 
 Kurzbeschreibung:
 
-Die Spielwelt wird aus sicht des Spielers in der Egoperspektive dargestellt. mit Tastatur kann er sich von Feld zu Feld bewegen. Dadurch wird kontinuierlich die Anzeige aktualisiert. Durch Kombination unterschiedlicher Gegenstände gelangt der Spieler zum Ziel. 
+Die Spielwelt wird in der Egoperspektive dargestellt. Mit Tastatur und Maus kann der Spieler navigieren. Durch die Kombination unterschiedlicher Gegenstände gelangt der Spieler zum Ziel.
 
 Technologien:
 - JavaSwing
@@ -16,12 +15,6 @@ Features:
 - Möglichkeit zum Abspeichern und Laden des Spielstands
 - Steuerung via Tastatur und Maus
 - Game Over und Gewinnen
-
-Wenn du [HIER] [1] klickst, kannst du sogar Videos von der Anwendung anschauen.
-</br>
-</br>
-
-[1]: http://www.mi.hs-rm.de/~tsche001               "HIER"
 
 ![Screenshot](https://raw.github.com/eyesfocus/CampusAdventure/master/screenshot/runninggame.png)
 
